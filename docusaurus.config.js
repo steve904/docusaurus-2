@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Rock Doc',
-  tagline: 'The tagline of my site',
+  tagline: 'We Got a Blog - We Got Docs',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
