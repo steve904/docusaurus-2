@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Rock Doc',
-  tagline: 'We Got a Blog - We Got Docs',
+  tagline: 'We Got Docs - We Got a Blog',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Rock Doc',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
